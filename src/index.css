@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+html:focus-within {
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+img,
+picture,
+svg {
+    max-width: 100%;
+    display: block;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.section-py {
+    @apply py-[72px] sm:py-24;
+}
+
