@@ -1,12 +1,12 @@
-# Landing Page Wizard
+# Wizard Landing Page
 
 ## Overview
 
-Welcome to the **Landing Page Wizard** project! 🎉 This application is designed to help users create stunning, responsive landing pages effortlessly. With a user-friendly interface and a variety of customizable components, this project leverages modern web technologies to deliver a seamless experience.
+Welcome to the **Wizard Landing Page** project! 🎉 This application is designed to help users create stunning, responsive landing pages effortlessly. With a user-friendly interface and a variety of customizable components, this project leverages modern web technologies to deliver a seamless experience.
 
 ## Live Demo
 
-Check out the live demo of the project here: [🌐 Landing Page Wizard Demo](https://landing-page-wizard.vercel.app)
+Check out the live demo of the project here: [🌐 Landing Page Wizard Demo](https://wizard-landing-page-site.vercel.app/)
 
 ## Features
 
@@ -27,11 +27,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yousefraeis/landing-page-wizard.git
+   git clone https://github.com/yousefraeis/wizard-landing-page-site.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd landing-page-wizard
+   cd wizard-landing-page-site
    ```
 3. Install the dependencies:
    ```bash
