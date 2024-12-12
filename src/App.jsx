@@ -13,7 +13,7 @@ import {
 
 const App = () => {
     return (
-        <div className="antialiased">
+        <div className="antialiased overflow-x-clip">
             <Banner />
             <Navbar />
             <Hero />
